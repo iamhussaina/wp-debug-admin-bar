@@ -7,7 +7,7 @@
  * @package   Hussainas Admin Bar Debugger
  * @version     1.0.0
  * @author      Hussain Ahmed Shrabon
- * @license     MIT  GPLv2 or later
+ * @license     MIT
  * @link        https://github.com/iamhussaina
  * @textdomain  hussainas
  */
